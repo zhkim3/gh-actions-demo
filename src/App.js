@@ -21,5 +21,7 @@ function App() {
     </div>
   );
 }
+const App = 12
+function App() { ... }
 
 export default App;
